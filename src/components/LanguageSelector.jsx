@@ -1,7 +1,4 @@
 
-// The full list of languages in FLORES-200 is available here:
-// https://github.com/facebookresearch/flores/blob/main/flores200/README.md#languages-in-flores-200
-
 const LANGUAGES = {
   "Acehnese (Arabic script)": "ace_Arab",
   "Acehnese (Latin script)": "ace_Latn",
